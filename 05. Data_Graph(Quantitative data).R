@@ -21,3 +21,4 @@ plot(x=dust$pm10, y=dust$pm25, xlab="미세먼지", ylab="초미세먼지", main
 
 #산점도3
 plot(x=dust$pm10, y=dust$pm25, xlab="미세먼지", ylab="초미세먼지", main="미세먼지와 초미세먼지의 변화", type = "h")
+ 
